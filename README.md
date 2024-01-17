@@ -1,2 +1,3 @@
-# cipher_code_decode
-I am still working on it. I will complete it soon so wait for a while till then you can enjoy this under developed code. If you want :)
+# Encrypt and Decrypt the messages with this program :)
+almost every symbols are added including space " ",
+but few symbols are not added like *** \  <   >  *** and maybe few more :( 
